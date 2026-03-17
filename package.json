@@ -1,0 +1,21 @@
+{
+  "name": "rnft.life",
+  "version": "0.0.2",
+  "description": "a home for featured projects on the internet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/versus-energy/rnft.life"
+  },
+  "keywords": [
+    "vfaas",
+    "urbit",
+    "mfm",
+    "edge-loading"
+  ],
+  "author": "Nero",
+  "license": "Driver"
+}
