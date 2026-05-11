@@ -19,7 +19,7 @@ function runner() {
 		return \`
 				<div class="App">
 			      <div id="tag-title">
-			      <img id='banner' src='./assets/lens-blur-map.png'/>
+			      <img id='banner' src='./assets/cover-map-v2.jpg'/>
 			      <p id='titles'>Radical ᛋ Network FT.</p>
 			      </div>
 			      <br/>
@@ -34,7 +34,7 @@ function runner() {
 			        <p>f%r compassion</p>
 			        <p>f%r timelessness</p>
 			        <p>f%r flâneurs</p>
-			        <p>f%r fuck's sake</p>
+			        <p>f%r preference stake</p>
 			      </div>
 			      <br/>
 			      <br/>
@@ -42,8 +42,6 @@ function runner() {
 			      <br/>
 			      <div class="container">
 			        <div class="box">
-			          <br/>
-			          <br/>
 			          <br/>
 			          <br/>
 			          <br/>
@@ -112,7 +110,7 @@ function runner() {
 		element.setHTMLUnsafe(main)
 	})();
 `)
-}
+};
 
 (async () => {
   await runner();
