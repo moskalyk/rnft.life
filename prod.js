@@ -19,7 +19,7 @@ function runner() {
 		return \`
 				<div class="App">
 			      <div id="tag-title">
-			      <img id='banner' src='./assets/cover-map-v2.jpg'/>
+			      <img id='banner' src='./assets/cover-map-v3.jpg'/>
 			      <p id='titles'>Radical ᛋ Network FT.</p>
 			      </div>
 			      <br/>
