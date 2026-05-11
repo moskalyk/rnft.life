@@ -47,8 +47,6 @@ function runner() {
 			          <br/>
 			          <br/>
 			          <br/>
-			          <br/>
-			          <br/>
 			            <span>mixed folder messages (mfm)</span>
 			            <br/>
 			            <p>a file format for procuring data and code to & from hex</p>
