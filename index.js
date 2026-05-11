@@ -21,7 +21,7 @@ function runner() {
 		element.setHTMLUnsafe(main)
 	})();
 `)
-}
+};
 
 (async () => {
   await runner();
