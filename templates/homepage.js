@@ -5,7 +5,7 @@ class HomePage {
 		return <>
 				<div class="App">
 			      <div id="tag-title">
-			      <img id='banner' src='./assets/lens-blur-map.png'/>
+			      <img id='banner' src='./assets/cover-map-v2.jpg'/>
 			      <p id='titles'>Radical ᛋ Network FT.</p>
 			      </div>
 			      <br/>
@@ -20,7 +20,7 @@ class HomePage {
 			        <p>f%r compassion</p>
 			        <p>f%r timelessness</p>
 			        <p>f%r flâneurs</p>
-			        <p>f%r fuck's sake</p>
+			        <p>f%r preferance stake</p>
 			      </div>
 			      <br/>
 			      <br/>
@@ -28,8 +28,6 @@ class HomePage {
 			      <br/>
 			      <div class="container">
 			        <div class="box">
-			          <br/>
-			          <br/>
 			          <br/>
 			          <br/>
 			          <br/>
