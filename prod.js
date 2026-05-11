@@ -34,7 +34,6 @@ function runner() {
 			        <p>f%r compassion</p>
 			        <p>f%r timelessness</p>
 			        <p>f%r flâneurs</p>
-			        <p>f%r preference stake</p>
 			      </div>
 			      <br/>
 			      <br/>
@@ -53,6 +52,7 @@ function runner() {
 			            <span>mixed folder messages (mfm)</span>
 			            <br/>
 			            <p>a file format for procuring data and code to & from hex</p>
+						<p>hex∘/(01(0-4) + code||data + 01(0-2) + funcs/)</p>
 			        </div>
 			        <div class="box">
 			          <br/>
@@ -70,7 +70,7 @@ function runner() {
 			          <br/>
 			          <br/>
 			          <br/>
-			            <span>TeakJS</span>
+			            <span><a target='_blank' href='https://github.com/moskalyk/rnft.life'>TeakJS</a></span>
 			            <p>a frontend frmwrk with js class templates, OTAs, & state mgmt</p>
 			        </div>
 			    </div>
