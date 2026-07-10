@@ -131,10 +131,10 @@ function runner() {
 			      <br/>
 			      <br/>
 			      <br/>
-			      tele: +16479140157
+			      <p>tele: +16479140157</p>
 			      <br/>
 			      <br/>
-				  ask for Ṅero
+				  <p>ask for Ṅero</p>
 			      <br/>
 			      <br/>
 			      <br/>
