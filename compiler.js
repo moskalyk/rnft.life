@@ -17,6 +17,11 @@ const {open, writeFile} = require('node:fs/promises');
 	const buf = Buffer.alloc(fh.size);
 	const buffer = await index.read(buf, 0, fh.size, 0)
 	const indexContents = buffer.buffer.toString()
-
-	await writeFile('./prod.js', indexContents.replace('#', homepageContents.toString()).replace('module.exports = HomePage', '').replace('<>','\\`').replace('</>','\\`'))
+	let writtenFile = indexContents.replace('#', homepageContents.toString()).replace('module.exports = HomePage', '').replace('<>','\\`').replace('</>','\\`')
+	
+	/class []()/
+	
+	// writtenFile = writtenFile.replace('this.click', writtenFile.)
+	
+	await writeFile('./prod.js', writtenFile)
 })()

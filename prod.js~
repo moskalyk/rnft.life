@@ -45,10 +45,11 @@ function runner() {
 			          <br/>
 			          <br/>
 			          <br/>
-			            <a href='https://github.com/moskalyk/mfm' target='_blank'><span>mixed folder messages (mfm)</span></a>
+			          <br/>
+			          <br/>
+			            <span>mixed folder messages (mfm)</span>
 			            <br/>
-			            <br/>
-			            <p>a file format for procuring data and code to & from hex.</p>
+			            <p>a file format for procuring data and code to & from hex</p>
 						<p>hex∘/(01(0-4) + code||data + 01(0-2) + funcs/)</p>
 			        </div>
 			        <div class="box">
@@ -57,23 +58,7 @@ function runner() {
 			          <br/>
 			          <br/>
 			          <br/>
-			          <br/>
-			            <span><a target='_blank' href='https://github.com/moskalyk/teakjs'>TeakJS</a></span>
-			            <br/>
-			            <br/>
-			            <p>a frontend frmwrk with js class templates, OTAs, & state mgmt.</p>
-			        </div>
-			        <div class="box">
-			          <br/>
-			          <br/>
-			          <br/>
-			          <br/>
-			          <br/>
-			          <br/>
 			            <a href='https://vfaas.net/' target='_blank'><span>vfaas.net</span></a>
-			            <br/>
-			            <br/>
-			            <p>compete against megacorp. "very-fast" or function-as-a-service personal server.</p>
 			        </div>
 			        <div class="box">
 			          <br/>
@@ -82,11 +67,9 @@ function runner() {
 			          <br/>
 			          <br/>
 			          <br/>
-			            <span><a target='_blank' href='https://github.com/moskalyk/deltas'>deltas</a></span>
-			            <br/>
-			            <br/>
-
-			            <p>an http frmwrk using throw and catch as GET and POST used for the data layer.</p>
+			          <br/>
+			            <span><a target='_blank' href='https://github.com/moskalyk/rnft.life'>TeakJS</a></span>
+			            <p>a frontend frmwrk with js class templates, OTAs, & state mgmt</p>
 			        </div>
 			        <div class="box">
 			          <br/>
@@ -95,10 +78,9 @@ function runner() {
 			          <br/>
 			          <br/>
 			          <br/>
-			            <span><a target='_blank' href='https://github.com/moskalyk/tricr'>TricR</a></span>
-			            <br/>
-			            <br/>
-			            <p>a simplified testing user centric testing framework with: i, ive, ill statements.</p>
+			          <br/>
+			            <span><a target='_blank' href='https://github.com/moskalyk/rnft.life'>TeakJS</a></span>
+			            <p>a frontend frmwrk with js class templates, OTAs, & state mgmt</p>
 			        </div>
 			        <div class="box">
 			          <br/>
@@ -107,10 +89,9 @@ function runner() {
 			          <br/>
 			          <br/>
 			          <br/>
-			            <span><a target='_blank' href='https://hoon-loader.vercel.app'>hoon loader</a></span>
-			            <br/>
-			            <br/>
-			            <p>a javascript based compiler for hoon with %- & |= implemented (WIP).</p>
+			          <br/>
+			            <span><a target='_blank' href='https://github.com/moskalyk/rnft.life'>TeakJS</a></span>
+			            <p>a frontend frmwrk with js class templates, OTAs, & state mgmt</p>
 			        </div>
 			        <div class="box">
 			          <br/>
@@ -119,10 +100,9 @@ function runner() {
 			          <br/>
 			          <br/>
 			          <br/>
-			            <span><a target='_blank' href='https://github.com/moskalyk/bas'>brownian-array security (bas)</a></span>
-			            <br/>
-			            <br/>
-			            <p>a way to shared passwords with N number of users, and pad a secret array to hide information.</p>
+			          <br/>
+			            <span><a target='_blank' href='https://github.com/moskalyk/rnft.life'>TeakJS</a></span>
+			            <p>a frontend frmwrk with js class templates, OTAs, & state mgmt</p>
 			        </div>
 			    </div>
 			      <br/>
@@ -134,7 +114,7 @@ function runner() {
 			      tele: +16479140157
 			      <br/>
 			      <br/>
-				  ask for Ṅero
+				  ask for Nero
 			      <br/>
 			      <br/>
 			      <br/>

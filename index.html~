@@ -6,7 +6,9 @@
 	<title>rnft.life</title>
 	<style>
 		body {
-			font-family: 'Courier';
+			font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+		    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+		    sans-serif;
 		  -webkit-font-smoothing: antialiased;
 		  -moz-osx-font-smoothing: grayscale;
 		  text-align: center;
@@ -105,20 +107,12 @@
 		  margin: auto;
 		  display: flex;
 		  justify-content: center;
-		  overflow: scroll;
-		  margin: 20px;
-		  scrollbar-width: auto;
+		  align-items: center;
 		}
-		
-		.box {
-				  flex-shrink: 0;
-		  inline-size: 100%;
 
-		overflow-x: scroll;
-  overscroll-behavior-x: contain;
-  scrollbar-width: none;
+		.box {
 		  padding: 10px;
-		  width: 30vw;
+		  width: 200px;
 		  height: 40vh;
 		  box-sizing: border-box;
 		  border: 2px solid #000;
