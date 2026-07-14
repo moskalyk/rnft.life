@@ -45,13 +45,11 @@ function runner() {
 			          <br/>
 			          <br/>
 			          <br/>
-			          <br/>
 			            <a href='https://github.com/moskalyk/mfm' target='_blank'><span>mixed folder messages (mfm)</span></a>
 			            <br/>
 			            <br/>
 			            <p>a file format for procuring data and code to & from hex.</p>
 						<p>hex∘/(01(0-4) + code||data + 01(0-2) + funcs/)</p>
-						<p><i>coming soon</i></p>
 			        </div>
 			        <div class="box">
 			          <br/>
@@ -64,7 +62,6 @@ function runner() {
 			            <br/>
 			            <br/>
 			            <p>a frontend frmwrk with js class templates, OTAs, & state mgmt.</p>
-			            <p><i>on hold</i></p>
 			        </div>
 			        <div class="box">
 			          <br/>
@@ -134,11 +131,10 @@ function runner() {
 			          <br/>
 			          <br/>
 			          <br/>
-			            <span><a target='_blank' href='https://stagi.um.rnft.life'>stagi.um</a></span>
+			            <span><a target='_blank' href='https://github.com/moskalyk/bas'>brownian-array security (bas)</a></span>
 			            <br/>
 			            <br/>
-			            <p>a p2p music sharing cli off USBs</p>
-			            <p><i>coming soon</i></p>
+			            <p>a way to shared passwords with N number of users, and pad a secret array to hide information.</p>
 			        </div>
 			    </div>
 			      <br/>
