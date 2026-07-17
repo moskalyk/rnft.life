@@ -125,7 +125,7 @@ function runner() {
 			            <span><a target='_blank' href='https://github.com/moskalyk/bas'>brownian-array security (bas)</a></span>
 			            <br/>
 			            <br/>
-			            <p>a way to shared passwords with N number of users, and pad a secret array to hide information.</p>
+			            <p>a way to share secrets with N number of users using a password, and pad a secret array to hide information.</p>
 			        </div>
 			        <div class="box">
 			          <br/>
@@ -137,7 +137,7 @@ function runner() {
 			            <span><a target='_blank' href='https://stagi.um.rnft.life'>stagi.um</a></span>
 			            <br/>
 			            <br/>
-			            <p>a p2p music sharing cli off USBs</p>
+			            <p>a p2p music sharing tui off USBs</p>
 			            <p><i>coming soon</i></p>
 			        </div>
 			    </div>
