@@ -46,6 +46,7 @@ function runner() {
 			          <br/>
 			          <br/>
 			          <br/>
+					  <br/>
 			            <a href='https://github.com/moskalyk/mfm' target='_blank'><span>mixed folder messages (mfm)</span></a>
 			            <br/>
 			            <br/>
@@ -138,7 +139,6 @@ function runner() {
 			            <br/>
 			            <br/>
 			            <p>a p2p music sharing tui off USBs</p>
-			            <p><i>coming soon</i></p>
 			        </div>
 			    </div>
 			      <br/>
